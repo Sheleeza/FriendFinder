@@ -1,4 +1,4 @@
-  // Starter set of users
+
 var friend = [
     {
         name: "A",
@@ -27,5 +27,5 @@ var friend = [
     }
 ]
 
-// Export set
+
 module.exports =  friend;
